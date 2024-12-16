@@ -2,7 +2,7 @@
 
 ## Membres du groupe
 
-Bilal Azzi, Mohamed Cheikh Rouhou, Mohamed Bouhamed, Omar Amari, Adam Hachicha
+Bilal Azzi, Adam Hachicha, Mohamed Cheikh Rouhou, Mohamed Bouhamed, Omar Amari
 
 ## Installation du produit
 
